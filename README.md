@@ -5,7 +5,7 @@
 
 ---
 
-## SDN이란? (What is SDN?)
+## What is SDN?
 - **Definition**: Technology to control and manage networks through software.
 - **Features**: Separate the **Control Plane** and **Data Plane** of the network.
 
